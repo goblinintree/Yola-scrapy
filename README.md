@@ -21,4 +21,8 @@ You can initialize this repository with code from a Subversion, Mercurial, or TF
 command:
 
     Import code
+ 
 
+## or pull an existing repository from the command line
+
+    git clone https://github.com/goblinintree/captcha.git
